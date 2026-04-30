@@ -15,7 +15,7 @@ class Menu(arcade.View):
         box.add(start_button)
 
         adicionar_butoes = arcade.gui.UIAnchorLayout() #layout para adicionar os botões
-        adicionar_butoes.add(box, anchor_x = "center_x", anchor_y = "center_y") #alinha os botões no centro da tela
+        adicionar_butoes.add(box, anchor_x = "cen'ter_x", anchor_y = "center_y") #alinha os botões no centro da tela
         self.manager.add(adicionar_butoes) #adiciona o layout ao gerenciador
 
 
