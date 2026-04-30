@@ -1,0 +1,92 @@
+🎮 CONCEITO ORGANIZADO DO SEU JOGO
+🎮 Nome do jogo (Fragmentos do Amanhã)
+
+
+
+💡 Ideia principal
+
+
+Um jogo 2D de plataforma com puzzles e combate por turnos, onde dois protagonistas investigam um futuro apocalíptico através de viagens no tempo,
+tentando descobrir como o mundo acabou — sem necessariamente impedir isso.
+
+🎯 Objetivo do jogador
+Descobrir como o apocalipse começa
+Completar um diário do futuro
+Tomar decisões que influenciam o conhecimento adquirido
+
+💀 Não é sobre salvar o mundo — é sobre entender ele
+
+🕹️ Mecânica principal
+
+Mistura de:
+
+🏃 Plataforma (exploração)
+🧩 Resolução de puzzles
+⚔️ Combate por turnos
+
+💡 Isso é interessante, mas precisa de equilíbrio:
+
+exploração em tempo real + combate separado (tipo transição de batalha)
+
+➕ Mecânicas secundárias
+⏳ Viagem no tempo (presente ↔ futuro apocalíptico)
+📖 Sistema de diário (progressão narrativa)
+🔓 Sistema de habilidades adquiridas ao longo do jogo
+🌍 Mundo / Ambientação
+🏙️ Presente (normal, aparentemente seguro)
+☠️ Futuro (apocalíptico, destruído, perigoso)
+
+Exemplo:
+
+Porta quebrada no futuro → bloqueada no presente
+Gerador funcionando no presente → destruído no futuro
+👤 Personagens
+👥 Protagonistas (2)
+Gêneros diferentes (boa decisão)
+
+👾 Inimigos
+Organização secreta
+Estrutura:
+🧠 Líder
+🪖 Capangas
+Androids
+Monstros
+
+💡 Isso encaixa MUITO bem com:
+
+eles podem já saber do apocalipse… ou até causar ele
+
+⚔️ Combate
+Sistema por turnos
+Pode envolver:
+ataques
+defesa
+habilidades (que o jogador aprende)
+
+💡 Ideia interessante:
+Habilidades podem vir do conhecimento do futuro
+
+💡 Pode ter:
+
+pistas incompletas
+teorias
+registros de eventos
+
+🔥 Isso substitui “níveis” como progresso
+
+🔁 Loop principal do jogo
+
+Fica assim:
+
+Explorar → descobrir pistas → resolver puzzles → enfrentar inimigos → viajar no tempo → atualizar diário → abrir novos caminhos
+
+📈 Progressão
+
+
+Então sua progressão é:
+
+📖 Conhecimento (diário)
+🔓 Novas habilidades
+🌍 Novas áreas liberadas
+
+💡 Isso deixa o jogo mais “investigativo

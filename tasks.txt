@@ -1,0 +1,41 @@
+Estrutura de Telas do Jogo
+🧭 1. Telas principais (fluxo inicial)
+
+Essas são as primeiras que o jogador vê:
+
+Menu Principal
+Novo Jogo
+Continuar
+Carregar Jogo
+Opções
+Sair
+Tela de Novo Jogo
+Escolha de personagem (ou multipla)
+Introdução inicial (opcional)
+Tela de Carregar Jogo
+Lista de saves
+Data / progresso
+Tela de Salvar Jogo
+Slots de save
+Nome do save (opcional)
+
+⚙️ 2. Configurações
+Tela de Opções
+Áudio
+Controles
+Gráficos
+Idioma
+
+Estrutura base:
+ScreenManager
+│
+├── MenuScreen
+├── GameScreen
+├── PauseScreen
+├── CombatScreen
+├── InventoryScreen
+├── StatusScreen
+├── DiaryScreen
+├── OptionsScreen
+├── SaveScreen
+├── LoadScreen
