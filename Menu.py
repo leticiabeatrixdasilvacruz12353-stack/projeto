@@ -1,5 +1,6 @@
 import arcade
 import arcade.gui
+from sprite import create_sprite
 
 class Menu(arcade.View):
     def __init__(self): #constructor
@@ -8,7 +9,13 @@ class Menu(arcade.View):
         self.manager.enable() #habilita o gerenciador
     
     def on_show_view(self):
-        arcade.set_background_color(arcade.color.PINK)
+        
+        self.sprites = arcade.SpriteList()
+
+        self.background = create_sprite("menu.jpg", 900, 500)
+        
+        self.sprites.append(self.background)
+
 
         box = arcade.gui.UIBoxLayout() 
         start_button = arcade.gui.UIFlatButton(text = 'start', width = 200)
@@ -21,5 +28,6 @@ class Menu(arcade.View):
 
     def on_draw(self):
         self.clear()
+        self.sprites.draw() #desenha os sprites
         self.manager.draw() 
         
