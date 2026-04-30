@@ -4,7 +4,7 @@ import Menu
 
 class Main(arcade.Window):
     def __init__(self, largura, altura, titulo):
-        super().__init__(largura, altura, titulo)
+        super().__init__(largura, altura, titulo, style=arcade.Window.WINDOW_STYLE_BORDERLESS)
 
     def menu(self):
         menu = Menu.Menu()
@@ -12,6 +12,6 @@ class Main(arcade.Window):
 
 
 game = Main(largura, altura, titulo) #criarndo a janela
-game.menu() #criando o menu
+game.menu() #criando o menuCLEAR
 
 arcade.run() #iniciar o jogo
