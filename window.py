@@ -1,5 +1,5 @@
 largura = 900
-altura = 500
+altura = 600
 
 titulo = 'sword'
 
